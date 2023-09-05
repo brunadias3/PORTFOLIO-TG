@@ -35,8 +35,10 @@ Minhas tecnologias e frameworks com maior conhecimento são na área de desenvol
 
 ### API 1º SEMESTRE - 2021-2
 
-[Sistema de raspagem e clonagem](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/1-semestre/1-semestre.md)
+> Sistema de raspagem e clonagem
 - O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar um sistema de raspagem e clonagem dos APIs anteriores da FATEC SJC.
+
+[Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/1-semestre/1-semestre.md)
 
 ## Contatos
 * [GitHub](https://github.com/brunadias3)

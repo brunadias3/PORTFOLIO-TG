@@ -15,7 +15,7 @@ Foi desenvolvida uma solução em Python que automatiza a clonagem de repositór
 
 
 ### Link do Github
-<a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>FATECH</span></a>
+<a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório dedicado ao 1°Semestre - FATECH</span></a>
 
 #### Tecnologias adotadas na solução
 
