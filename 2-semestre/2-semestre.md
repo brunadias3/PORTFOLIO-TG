@@ -11,7 +11,7 @@ Desenvolvimento de uma aplicação desktop para solucionar problemas causados po
 
 Foi desenvolvido um sistema que oferece a unificação das mensagens em uma única base de dados. Para apresentação das informações foi criado um menu de controle, neste menu existem as opções de cadastrar, alterar, deletar e visualizar as informações referentes as mensagens, usuários e grupos.
 
-<a href="https://drive.google.com/file/d/16iggC4njt9wMS8JhU1LAKnqJ4V-naP-6/view?usp=sharing">
+<a href="https://drive.google.com/file/d/16iggC4njt9wMS8JhU1LAKnqJ4V-naP-6/view?usp=sharing" target="_blank">
     <img src="../img/imagem2semestre.png" />
     <br>
     - Link do vídeo de apresentação da aplicação.
