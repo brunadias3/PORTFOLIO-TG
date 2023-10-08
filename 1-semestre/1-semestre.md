@@ -28,8 +28,10 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
     <tr>
         <td style="text-align:center">
-            <img src="https://skillicons.dev/icons?i=py"> <br>
-            <strong>Python</strong>
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=py"> <br>
+                <strong>Python</strong>
+            </p>
         </td>
         <td style="text-align:center">
             Utilizado para desenvolver a raspagem de links e WebScraping.
@@ -37,9 +39,10 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
     <tr>
         <td style="text-align:center">
-            <img src="https://skillicons.dev/icons?i=html"><strong><br>HTML<br>
-            <img src="https://skillicons.dev/icons?i=css"><br>CSS<br>
-            <img src="https://skillicons.dev/icons?i=js"><br>JavaScript</strong>
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=html,css,js" /> <br>
+                  <strong>HTML | CSS | JavaScript </strong>
+            </p>
         </td>
         <td style="text-align:center">
             Utilizado para desenvolver a aplicação web e estilizá-la.
@@ -47,8 +50,10 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
     <tr>
         <td style="text-align:center">
-            <img src="https://skillicons.dev/icons?i=vscode"> <br>
-            <strong>Visual Studio Code</strong>
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=vscode"> <br>
+                <strong>Visual Studio Code</strong>
+            </p>
         </td>
         <td style="text-align:center">
             Utilizado como ferramenta de apoio para o desenvolvimento do código.
@@ -56,10 +61,10 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
     <tr>
         <td style="text-align:center">
-            <img src="https://skillicons.dev/icons?i=git"> <br>
-            <strong>GIT<br>
-            <img src="https://skillicons.dev/icons?i=github"> <br>
-            GitHub</strong>
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
         </td>
         <td style="text-align:center">
             Utilizado para versionamento e armazenamento do código.
@@ -67,8 +72,10 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
     <tr>
         <td style="text-align:center">
-            <img src="https://skillicons.dev/icons?i=discord"> <br>
-            <strong>Discord</strong>
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=discord"> <br>
+                <strong>Discord</strong>
+            </p>
         </td>
         <td style="text-align:center">
             Utilizado para comunicação do time.
