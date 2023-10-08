@@ -8,6 +8,7 @@
   - [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
   - [Meus Projetos](#meus-projetos)
     - [API 1º SEMESTRE - 2021-2](#api-1º-semestre---2021-2)
+    - [API 2º SEMESTRE - 2022-1](#api-2º-semestre---2022-1)
   - [Contatos](#contatos)
 
 # Bruna dos Santos Dias
@@ -52,6 +53,14 @@ Minhas tecnologias e frameworks com maior conhecimento são na área de desenvol
 - O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar um sistema de raspagem e clonagem dos APIs anteriores da FATEC SJC.
 
 [Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/1-semestre/1-semestre.md)
+
+### API 2º SEMESTRE - 2022-1
+
+> Desenvolvimento de uma aplicação desktop
+
+- O projeto foi proposto pela empresa parceira Pro4Tech. O desafio desse projeto foi a criação de uma aplicação Desktop com a finalidade de organizar a comunicação da empresa com os clientes, permitindo a inclusão de mensagens recebidas em outras plataformas para manter um histórico de cada comunicação.
+
+[Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/2-semestre/2-semestre.md)
 
 ## Contatos
 
