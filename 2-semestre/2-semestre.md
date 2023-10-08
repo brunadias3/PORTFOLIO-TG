@@ -11,12 +11,11 @@ Desenvolvimento de uma aplicação desktop para solucionar problemas causados po
 
 Foi desenvolvido um sistema que oferece a unificação das mensagens em uma única base de dados. Para apresentação das informações foi criado um menu de controle, neste menu existem as opções de cadastrar, alterar, deletar e visualizar as informações referentes as mensagens, usuários e grupos.
 
-<div style="position:relative;width:fit-content;height:fit-content;">
-    <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/UgdTPqAOj0z?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-            <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-    </a>
-    <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/UgdTPqAOj0z/embed" width="640" height="360"></iframe>
-</div>
+<a href="https://drive.google.com/file/d/16iggC4njt9wMS8JhU1LAKnqJ4V-naP-6/view?usp=sharing">
+    <img src="../img/imagem2semestre.png" />
+    <br>
+    - Link do vídeo de apresentação da aplicação.
+</a>
 
 ### • Link do Github
 
