@@ -13,36 +13,87 @@ O projeto desenvolvido pelo grupo, denominado Fatech, tem o objetivo de facilita
 Foi desenvolvida uma solução em Python que automatiza a clonagem de repositórios GitHub de projetos anteriores da FATEC SJC. Através da raspagem das URLs das APIs da FATEC, os repositórios são clonados e visando a comodidade do cliente, a equipe buscou organizar por curso, semestre, ano e turma. Além disso, um website foi criado usando HTML e CSS para exibir os projetos indexados, facilitando o acesso e a visualização dos mesmos.
 <img src="../img/imagem1semestre.png">
 
-
 ### Link do Github
+
 <a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório dedicado ao 1°Semestre - FATECH</span></a>
 
 #### Tecnologias adotadas na solução
 
 As tecnologias adotadas para a solução foram as seguintes:  
-<img src="https://user-images.githubusercontent.com/89141910/142216674-639552c3-d3bc-4b0a-acd8-bff90f3d93a0.png">
 
-- **Back-end:** Python, JavaScript;
-- **Front-end:** HTML, CSS;
-- **Ferramentas:** Visual Studio Code, Canva, Git, Github, PowerPoint, Microsoft Teams e Discord. ㅤ
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://skillicons.dev/icons?i=py"> <br>
+            <strong>Python</strong>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolver a raspagem de links e WebScraping.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://skillicons.dev/icons?i=html"><strong><br>HTML<br>
+            <img src="https://skillicons.dev/icons?i=css"><br>CSS<br>
+            <img src="https://skillicons.dev/icons?i=js"><br>JavaScript</strong>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolver a aplicação web e estilizá-la.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://skillicons.dev/icons?i=vscode"> <br>
+            <strong>Visual Studio Code</strong>
+        </td>
+        <td style="text-align:center">
+            Utilizado como ferramenta de apoio para o desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://skillicons.dev/icons?i=git"> <br>
+            <strong>GIT<br>
+            <img src="https://skillicons.dev/icons?i=github"> <br>
+            GitHub</strong>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="https://skillicons.dev/icons?i=discord"> <br>
+            <strong>Discord</strong>
+        </td>
+        <td style="text-align:center">
+            Utilizado para comunicação do time.
+        </td>
+    </tr>
+</table>
 
+#### Contribuições Pessoais
+
+Contribuí com o desenvolvimento da raspagem de dados, utilizando-se do Python, específicamente na parte de resgatar todos os links necessários para realizar a raspagem dos repositórios para clonagem. Também auxiliei e desenvolvi a documentação do projeto, feito com HTML e linguagem Markdown no README do Github.
 
 #### Hard Skills
 
-1. **Programação em Python:** A automação da clonagem de repositórios e a raspagem de dados foram realizadas utilizando a linguagem Python. Isso permitiu desenvolver habilidades avançadas em programação, manipulação de strings, e bibliotecas específicas.
+- **Automatização em Python:** Sei fazer com ajuda.
 
-2. **Desenvolvimento Web (HTML/CSS):** A criação do website envolveu a construção de páginas web com HTML para estrutura e CSS para estilização. Isso proporcionou experiência no desenvolvimento de interfaces de usuário atraentes e funcionais.
+- **Desenvolvimento Web (HTML/CSS):** Sei fazer com autonomia.
 
-3. **Controle de Versão (Git):** A clonagem de repositórios do GitHub e o upload dos projetos demandaram o uso eficaz do Git para controle de versão. Isso incluiu a criação de commits, resolução de conflitos e fusão de código.
+- **Controle de Versão (Git):** Sei fazer com autonomia.
 
-4. **Organização de Dados:** A organização de projetos por curso, semestre, ano e turma demonstrou habilidades em estruturar dados de maneira hierárquica, permitindo acesso fácil e eficiente aos recursos.
+- **Organização de Dados:** Sei fazer com autonomia.
 
-#### Soft Skills  
+#### Soft Skills
 
-1. **Comunicação Efetiva:** Durante o processo de automatização da clonagem e raspagem, foi essencial manter uma comunicação clara com a equipe para entender os requisitos e expectativas, além de reportar o progresso e possíveis desafios encontrados.
+- **Comunicação Efetiva:** Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
 
-2. **Colaboração e Trabalho em Equipe:** A coordenação com os membros da equipe de desenvolvimento, design e conteúdo foi fundamental para garantir que o website refletisse as necessidades da FATEC SJC e que os projetos fossem organizados de forma adequada.
+- **Colaboração e Trabalho em Equipe:** Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
 
-3. **Resolução de Problemas:** Enfrentar obstáculos ao automatizar a clonagem de repositórios e a raspagem de dados exigiu habilidades sólidas de resolução de problemas. Identificar erros, depurar código e otimizar processos foram etapas cruciais.
-
-4. **Gerenciamento do Tempo:** Lidar com várias tarefas, desde a criação do website até a geração de código incorporável, demandou uma gestão eficiente do tempo. Definir prioridades e cumprir prazos foi vital para o sucesso do projeto.
+- **Gerenciamento do Tempo:** Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
