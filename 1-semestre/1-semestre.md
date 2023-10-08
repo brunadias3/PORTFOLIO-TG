@@ -13,11 +13,11 @@ O projeto desenvolvido pelo grupo, denominado Fatech, tem o objetivo de facilita
 Foi desenvolvida uma solução em Python que automatiza a clonagem de repositórios GitHub de projetos anteriores da FATEC SJC. Através da raspagem das URLs das APIs da FATEC, os repositórios são clonados e visando a comodidade do cliente, a equipe buscou organizar por curso, semestre, ano e turma. Além disso, um website foi criado usando HTML e CSS para exibir os projetos indexados, facilitando o acesso e a visualização dos mesmos.
 <img src="../img/imagem1semestre.png">
 
-### Link do Github
+### • Link do Github
 
 <a href="https://github.com/Grupo-4-Fatech/API-1Semestre" target="_blank"><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório dedicado ao 1°Semestre - FATECH</span></a>
 
-#### Tecnologias adotadas na solução
+## Tecnologias adotadas na solução
 
 As tecnologias adotadas para a solução foram as seguintes:  
 
@@ -76,11 +76,11 @@ As tecnologias adotadas para a solução foram as seguintes:
     </tr>
 </table>
 
-#### Contribuições Pessoais
+## Contribuições Pessoais
 
 Contribuí com o desenvolvimento da raspagem de dados, utilizando-se do Python, específicamente na parte de resgatar todos os links necessários para realizar a raspagem dos repositórios para clonagem. Também auxiliei e desenvolvi a documentação do projeto, feito com HTML e linguagem Markdown no README do Github.
 
-#### Hard Skills
+### Hard Skills
 
 - **Automatização em Python:** Sei fazer com ajuda.
 
@@ -90,7 +90,7 @@ Contribuí com o desenvolvimento da raspagem de dados, utilizando-se do Python, 
 
 - **Organização de Dados:** Sei fazer com autonomia.
 
-#### Soft Skills
+### Soft Skills
 
 - **Comunicação Efetiva:** Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
 
