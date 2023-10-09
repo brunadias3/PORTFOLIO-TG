@@ -11,7 +11,7 @@ Criação de um website de criação de tickets e usuários, que permite aos usu
 
 A aplicação também inclui recursos de gerenciamento de usuários, hierarquias de acesso, gráficos estatísticos, manutenção de dados e filtragem de tickets para facilitar a organização e priorização do trabalho.
 
-https://user-images.githubusercontent.com/88494278/243003786-33713cb0-2968-425c-8652-e4505ee23170.gif
+![243003559-c16c8659-4814-4a4e-8af5-ea6bb35ff49e](https://github.com/brunadias3/PORTFOLIO-TG/assets/89141910/1167d7cd-71f4-4ac6-be11-944fdc78fef3)
 
 ### • Link do Github
 
