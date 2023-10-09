@@ -9,6 +9,7 @@
   - [Meus Projetos](#meus-projetos)
     - [API 1º SEMESTRE - 2021-2](#api-1º-semestre---2021-2)
     - [API 2º SEMESTRE - 2022-1](#api-2º-semestre---2022-1)
+    - [API 3º SEMESTRE - 2022-2](#api-3º-semestre---2022-2)
   - [Contatos](#contatos)
 
 # Bruna dos Santos Dias
@@ -61,6 +62,14 @@ Minhas tecnologias e frameworks com maior conhecimento são na área de desenvol
 - O projeto foi proposto pela empresa parceira Pro4Tech. O desafio desse projeto foi a criação de uma aplicação Desktop com a finalidade de organizar a comunicação da empresa com os clientes, permitindo a inclusão de mensagens recebidas em outras plataformas para manter um histórico de cada comunicação.
 
 [Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/2-semestre/2-semestre.md)
+
+### API 3º SEMESTRE - 2022-2
+
+> Desenvolvimento de uma aplicação para realizar o cálculo de distância da pista de pouso
+
+- O projeto foi proposto pela empresa parceira Embraer. O desafio desse projeto foi fazer o cálculo da distância da pista de pouso considerando alguns fatores tais fatores são por exemplo: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura e vento.
+
+[Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/3-semestre/3-semestre.md)
 
 ## Contatos
 
