@@ -88,7 +88,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 ## Contribuições Pessoais
 
-Contribuí para o projeto desenvolvendo o Diagrama Entidade Relacionamento, a modelagem do banco de dados(SQL) e a criação dos relatórios e partes do CRUD de usuários e mensagens utilizando a linguagem Java. Além disso, criei documentação em HTML e Markdown no README do GitHub
+Contribuí para o projeto desenvolvendo o Diagrama Entidade Relacionamento, a modelagem do banco de dados(SQL) e a criação dos relatórios e partes do CRUD de usuários e mensagens utilizando a linguagem Java. Além disso, criei documentação em HTML e Markdown no README do GitHub.
 
 ### Hard Skills
 

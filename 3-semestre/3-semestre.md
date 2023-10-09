@@ -3,7 +3,7 @@
 
 ### Parceiro Acadêmico
 
-A [Embraer](https://embraer.com/br/pt) é é um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área. A empresa propôs de desenvolver uma aplicação web que fizesse uma análise do comprimento de pista requerida para o pouso, porém essa análise leva em consideração vários parâmetros.
+A [Embraer](https://embraer.com/br/pt) é um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área. A empresa propôs de desenvolver uma aplicação web que fizesse uma análise do comprimento de pista requerida para o pouso, porém essa análise leva em consideração vários parâmetros.
 
 ### Visão do Projeto
 
