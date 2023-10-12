@@ -77,7 +77,7 @@ Minhas tecnologias e frameworks com maior conhecimento são na área de desenvol
 
 > Desenvolvimento de uma aplicação web 
 
-- O projeto foi proposto pela empresa parceira Ionic Health. O desafio desse projeto foi criar uma aplicação web de gerenciamento de tickets e usuários, com hierarquia de priviçégios e avaliações de risco, impacto e custo de cada ticket.
+- O projeto foi proposto pela empresa parceira Ionic Health. O desafio desse projeto foi criar uma aplicação web de gerenciamento de tickets e usuários, com hierarquia de privilégios e avaliações de risco, impacto e custo de cada ticket.
 
 [Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/4-semestre/4-semestre.md)
 
