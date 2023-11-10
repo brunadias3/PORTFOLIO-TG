@@ -11,6 +11,7 @@
     - [API 2º SEMESTRE - 2022-1](#api-2º-semestre---2022-1)
     - [API 3º SEMESTRE - 2022-2](#api-3º-semestre---2022-2)
     - [API 4º SEMESTRE - 2023-1](#api-4º-semestre---2023-1)
+    - [API 5º SEMESTRE - 2023-2](#api-5º-semestre---2023-2)
   - [Contatos](#contatos)
 
 # Bruna dos Santos Dias
@@ -80,6 +81,14 @@ Minhas tecnologias e frameworks com maior conhecimento são na área de desenvol
 - O projeto foi proposto pela empresa parceira Ionic Health. O desafio desse projeto foi criar uma aplicação web de gerenciamento de tickets e usuários, com hierarquia de privilégios e avaliações de risco, impacto e custo de cada ticket.
 
 [Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/4-semestre/4-semestre.md)
+
+### API 5º SEMESTRE - 2023-2
+
+> Desenvolvimento de uma aplicação mobile
+
+- O projeto foi proposto pela empresa parceira Imagem. O desafio desse projeto é criar uma aplicação móvel tem a finalidade de permitir aos funcionários consultar, atualizar, desativar e cadastrar informações dos equipamentos ativos da companhia por meio de um aplicativo acessível em dispositivos móveis.
+
+[Para mais informações, clique aqui!](https://github.com/brunadias3/PORTFOLIO-TG/blob/main/5-semestre/5-semestre.md)
 
 ## Contatos
 
