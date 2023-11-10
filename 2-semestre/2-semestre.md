@@ -100,8 +100,6 @@ Contribuí para o projeto desenvolvendo o Diagrama Entidade Relacionamento, a mo
 
 ### Soft Skills
 
-- **Empatia:** Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.
-- **Trabalho em equipe:** Para divisão de tarefas para realizar as entregas no prazo.
-- **Gerenciamento de tempo:** Do início ao fim do projeto, por conta do projeto ter uma regra de negócio bem complexa.
-- **Autodidatismo:** Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.
-- **Autocontrole e paciência:** Por ser tratar de um projeto muito complexo em regra de negócio, foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.
+- **Empatia:** Durante o projeto, exercendo a função de Scrum Master pela primeira vez, precisei solidificar a minha empatia com os outros integrantes, compreendendo a situação e dificuldade de cada um, tanto técnica quanto emocional. Consequentemente, tive que lidar com situações que demandavam análise individual para que a equipe não perdesse a harmonia e efetuasse as entregas dentro do prazo estipulado.
+
+- **Harmonia:** Paralelamente à empatia, precisei estalabecer a harmonia entre os desenvolvedores, buscando o consenso entre todos. É muito importante que a equipe caminhe em concordância durante toda a trajetoria do projeto. Procurei levar todos rumo à reconciliação para obter um ponto em comum e prosseguir com a implementação do projeto.

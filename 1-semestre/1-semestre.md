@@ -99,8 +99,8 @@ Contribuí com o desenvolvimento da raspagem de dados, utilizando-se do Python, 
 
 ### Soft Skills
 
-- **Comunicação Efetiva:** Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- **Comunicação Efetiva:** Para entender o problema que o cliente queria que fosse resolvido, foi necessário desenvolver uma comunicação efetiva durante toda a construção do projeto.
 
-- **Colaboração e Trabalho em Equipe:** Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- **Colaboração e Trabalho em Equipe:** No primeiro semestre foi extremamente necessário desde o ínicio aprender sobre colaboração e como trabalhar em equipe, lidar com diferenças, para que o projeto chegue até o cliente dentro do prazo e funcionando.
 
-- **Gerenciamento do Tempo:** Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- **Gerenciamento do Tempo:** Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão, elaborando um calendário de sprints em que separamos entregas parciais do MVP até a entrega final completa do projeto.

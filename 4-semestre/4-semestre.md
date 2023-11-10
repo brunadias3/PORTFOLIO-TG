@@ -3,7 +3,7 @@
 
 ### Parceiro Acadêmico
 
-A [Ionic Health](https://pt-br.ionic.health/) é uma empresa de tecnologia que transforma a saúde em todo o mundo através de tecnologias de automação. Fornecem soluções remotas para automatizar, monitorar, acessar, apoiar, educar e teleoperar na área da saúde. A empresa propôs de desenvolver uma aplicação web de gerenciamento de tickets e usuários, com hierarquia de priviçégios e avaliações de risco, impacto e custo de cada ticket.
+A [Ionic Health](https://pt-br.ionic.health/) é uma empresa de tecnologia que transforma a saúde em todo o mundo através de tecnologias de automação. Fornecem soluções remotas para automatizar, monitorar, acessar, apoiar, educar e teleoperar na área da saúde. A empresa propôs de desenvolver uma aplicação web de gerenciamento de tickets e usuários, com hierarquia de privilégios e avaliações de risco, impacto e custo de cada ticket.
 
 ### Visão do Projeto
 
@@ -122,8 +122,6 @@ Para a construção do projeto, minha contribuição foi focada no frontend, uti
 
 ### Soft Skills
 
+- **Autocontrole e paciência:** Por ser tratar de um projeto muito complexo em regra de negócio, foi necessário ter um bom autocontrole e ser calma para que a conclusão do mesmo pudesse ser feita da melhor forma possível.
+
 - **Empatia:** Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.
-- **Trabalho em equipe:** Para divisão de tarefas para realizar as entregas no prazo.
-- **Gerenciamento de tempo:** Do início ao fim do projeto, por conta do projeto ter uma regra de negócio bem complexa.
-- **Autodidatismo:** Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.
-- **Autocontrole e paciência:** Por ser tratar de um projeto muito complexo em regra de negócio, foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.

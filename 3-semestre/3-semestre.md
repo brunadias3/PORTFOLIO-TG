@@ -120,8 +120,6 @@ Para a construção do projeto, minha contribuição foi focada na construção 
 
 ### Soft Skills
 
-- **Empatia:** Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.
-- **Trabalho em equipe:** Para divisão de tarefas para realizar as entregas no prazo.
-- **Gerenciamento de tempo:** Do início ao fim do projeto, por conta do projeto ter uma regra de negócio bem complexa.
-- **Autodidatismo:** Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.
-- **Autocontrole e paciência:** Por ser tratar de um projeto muito complexo em regra de negócio, foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.
+- **Foco:** Atividades que faziam parte dos requisitos foram as quais desenvolvi com maior foco, visando o melhor resultado e realizando a melhor escolha para obter maior aproveitamento de código e menor retrabalho durante o desenvolvimento das sprints.
+
+- **Estudioso:** Para a implementação do Framework do projeto, foi necessário pesquisar e aprender sobre JavaScript e React, já que era o primeiro contato que eu tinha com a tecnologia. Sendo assim, constantemente implementei melhorias no código-fonte do projeto.
