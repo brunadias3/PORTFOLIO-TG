@@ -23,10 +23,12 @@
 	<p align="center"><img src="/perfil.png" alt="Foto de perfil" class="center" width=300 ></p>
 </div>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na [FATEC Prof.º Jessen Vidal, São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), atualmente cursando o 5º semestre.
+Atualmente trabalho com desenvolvimento web em Javascript e Typescript, com ênfase em NodeJS e VueJS, experiência em automação de robôs, documentação de projetos, análise de requisitos e arquitetura de software. Utilizo o Git para versionar meus projetos e tenho conhecimento no uso do Banco de Dados MySQL Workbench.
+Também tenho experiência com projetos pessoais e acadêmicos em: Java, React, Typescript, MariaDB, Debian, HTML, CSS, Docker e Django.
 
 ### Formação Acadêmica
 
+Graduação em Análise e Desenvolvimento de sistemas na FATEC São José dos Campos - Prof. Jessen Vidal, (2021 - 2024)
 Técnico em Informática, pelo Colégio Joseense, São José dos Campos (2018 - 2020);
 
 ### Experiência
