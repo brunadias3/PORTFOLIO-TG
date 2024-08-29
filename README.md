@@ -28,8 +28,8 @@ Também tenho experiência com projetos pessoais e acadêmicos em: Java, React, 
 
 ### Formação Acadêmica
 
-Graduação em Análise e Desenvolvimento de sistemas na FATEC São José dos Campos - Prof. Jessen Vidal, (2021 - 2024)
-Técnico em Informática, pelo Colégio Joseense, São José dos Campos (2018 - 2020);
+- Graduação em Análise e Desenvolvimento de sistemas na FATEC São José dos Campos - Prof. Jessen Vidal, (2021 - 2024);
+- Técnico em Informática, pelo Colégio Joseense, São José dos Campos (2018 - 2020);
 
 ### Experiência
 
